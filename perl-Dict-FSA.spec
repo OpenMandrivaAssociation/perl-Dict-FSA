@@ -2,7 +2,7 @@
 
 Name:		perl-%{module}
 Version:	0.1.2
-Release:	7
+Release:	8
 Summary:	FSA wrapper
 License:	GPL or Artistic
 Group:		Development/Perl
