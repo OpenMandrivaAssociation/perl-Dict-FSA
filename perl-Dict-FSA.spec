@@ -6,7 +6,7 @@ Release:	9
 Summary:	FSA wrapper
 License:	GPL or Artistic
 Group:		Development/Perl
-Url:		http://search.cpan.org/dist/%{module}/
+Url:		https://search.cpan.org/dist/%{module}/
 Source:		http://search.cpan.org/CPAN/authors/id/G/GR/GROUSSE/%{module}-%{version}.tar.bz2
 BuildRequires:	perl-devel
 BuildRequires:	fsa
