@@ -8,6 +8,7 @@ License:	GPL or Artistic
 Group:		Development/Perl
 Url:		https://search.cpan.org/dist/%{module}/
 Source:		http://search.cpan.org/CPAN/authors/id/G/GR/GROUSSE/%{module}-%{version}.tar.bz2
+BuildRequires:	make
 BuildRequires:	perl-devel
 BuildRequires:	fsa
 Requires:	fsa
